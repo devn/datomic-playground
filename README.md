@@ -1,13 +1,17 @@
 # datomic-playground
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to ... well, play around with Datomic.
 
 ## Usage
 
-FIXME
+`./script/bootstrap`
+
+`./script/start-datomic`
+
+Then, read the code and stuff.
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Devin Walters
 
 Distributed under the Eclipse Public License, the same as Clojure.
