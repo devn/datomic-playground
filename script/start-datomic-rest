@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+cd deps/datomic
+bin/rest -p 8080 playground datomic:free://localhost:4334/

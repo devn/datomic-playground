@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+cd deps/datomic
+bin/transactor config/samples/free-transactor-template.properties
